@@ -1,1 +1,1 @@
-# Shiny_metabolomics
+# Shiny example app: metabolomics app PCA and correlation plots
